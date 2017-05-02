@@ -1,4 +1,4 @@
-package core.algorithm.utils;
+package study.core.algorithm.utils;
 
 /**
  * Created by zhenweiyu on 2017/4/28.
