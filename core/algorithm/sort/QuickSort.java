@@ -1,6 +1,6 @@
-package core.algorithm.sort;
+package study.core.algorithm.sort;
 
-import core.algorithm.utils.SortUtils;
+import study.core.algorithm.utils.SortUtils;
 
 /**
  * Created by zhenweiyu on 2017/4/26.
