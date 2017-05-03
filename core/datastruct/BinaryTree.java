@@ -1,4 +1,4 @@
-package study.core.datastruct;
+package core.datastruct;
 
 /**
  * Created by zhenweiyu on 2017/5/3.
