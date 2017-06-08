@@ -8,7 +8,7 @@
       * [归并排序](https://github.com/zhenweiyu/Java-Algorithm-DataStruct/blob/master/core/algorithm/sort/MergeSort.java)
       * [快速排序](https://github.com/zhenweiyu/Java-Algorithm-DataStruct/blob/master/core/algorithm/sort/QuickSort.java)
       * [基数排序](https://github.com/zhenweiyu/Java-Algorithm-DataStruct/blob/master/core/algorithm/sort/RadixSort.java)
-      * [睡眠排序](https://github.com/zhenweiyu/Java-Algorithm-DataStruct/blob/master/core/algorithm/sort/ThreadSleepSort.java)
+      * [睡眠排序](https://github.com/zhenweiyu/Java-Algorithm-DataStruct/blob/master/core/algorithm/sort/ThreadSleepSort.java)
     * 搜索算法
       * [顺序搜索](https://github.com/zhenweiyu/Java-Algorithm-DataStruct/blob/master/core/algorithm/search/SequenceSearch.java)
       * [二分搜索](https://github.com/zhenweiyu/Java-Algorithm-DataStruct/blob/master/core/algorithm/search/BinarySearch.java)
