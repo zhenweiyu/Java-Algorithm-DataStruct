@@ -13,6 +13,8 @@
       * [顺序搜索](https://github.com/zhenweiyu/Java-Algorithm-DataStruct/blob/master/core/algorithm/search/SequenceSearch.java)
       * [二分搜索](https://github.com/zhenweiyu/Java-Algorithm-DataStruct/blob/master/core/algorithm/search/BinarySearch.java)
       * [插值搜索](https://github.com/zhenweiyu/Java-Algorithm-DataStruct/blob/master/core/algorithm/search/InsertValueSearch.java)
+    * 数学工具类
+      * [工具类](https://github.com/zhenweiyu/Java-Algorithm-DataStruct/blob/master/core/algorithm/MathUtils.java)
 * 数据结构
     * 树
       * [二叉搜索树](https://github.com/zhenweiyu/Java-Algorithm-DataStruct/blob/master/core/datastruct/BinaryTree.java) 
